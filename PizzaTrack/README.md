@@ -44,8 +44,8 @@ Cuando se hace Redo, el pedido vuelve a la pila principal.
 
 Link del video:
 
-PEGAR_LINK_AQUI
+https://drive.google.com/file/d/1L7duBPfvB7oP3bQpFY-QC2hJH5KL5S-r/view?usp=sharing
 
 ## Repositorio GitHub
 
-PEGAR_LINK_GITHUB_AQUI
+https://github.com/Franco2607/PizzaTrack
